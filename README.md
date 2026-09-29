@@ -1,4 +1,5 @@
 # Tata Group Data Visualisation & Executive Insights Simulation 📊
+![Download Preview](Screenshot%202026-09-29%20230142)
 
 ## Executive Summary
 Completed a virtual job simulation with **Tata Group** on Forage, building visual dashboards for senior leadership (CEO & CMO). Cleaned and analyzed online store sales data to help the business track revenue, find new markets for growth, and understand seasonal shopping trends.
